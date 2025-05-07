@@ -1,0 +1,1 @@
+ C:\\Users\\PC\\Desktop\\My_Folder\\POS-BORD\\frontend\ -\ Copy\\.dart_tool\\flutter_build\\e8863d280ee07bc1e4e1ed14a14aba38\\native_assets.json: 
